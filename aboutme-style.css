@@ -1,0 +1,30 @@
+body{
+	font-family: Trebuchet MS;
+	background-color: grey;
+}
+
+p{
+	color: white;
+	font-size: 18pt;
+	font-weight: bold;
+}
+p::first-letter {
+	font-size: 27pt;
+}
+h2{
+	color: blue;
+}
+h1{
+	font-style: italic;
+}
+
+a{
+	color: red;
+	font
+}
+a:link { 
+            text-decoration: none; 
+        } 
+a:hover { 
+            text-decoration: underline; 
+        } 
