@@ -1,0 +1,36 @@
+body{
+	background-image: url("https://courses.cs.washington.edu/courses/cse190m/09sp/labs/2-journal/solution/images/background.gif");
+}
+
+#divich1 h2{
+	border: 14pt;
+}
+
+.divich2 {
+	border: 4px #C2E9E9; thick;
+	outline: solid; 
+	background-color: #E8FBFB;
+	margin-top: 10px;
+	padding: 5px;
+	overflow: hidden;
+}
+
+.divich2 h2 span{
+	border-bottom: 2px green dashed ;
+}
+
+#bodich {
+	border: 10px white thick;
+	font-family: "Georgia";
+	color: #009097;
+}
+.normal {
+	float: right;
+}
+#divich1{
+	background-color: #A8F0F0;
+	text-align: right;
+}
+h1,h2{
+	padding: 5px;
+}
